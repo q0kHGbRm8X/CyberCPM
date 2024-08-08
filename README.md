@@ -1,14 +1,20 @@
 ```
 apt update && apt upgrade -y```
 
-`pkg install python -y`
+```
+pkg install python -y```
 
-`pkg install git -y`
+```
+pkg install git -y```
 
-`termux-setup-storage`
+```
+termux-setup-storage```
 
-`git clone https://github.com/q0kHGbRm8X/CyberCPM`
+```
+git clone https://github.com/q0kHGbRm8X/CyberCPM```
 
-`cd CyberCPM`
+```
+cd CyberCPM```
 
-`python main.py`
+```
+python main.py```

@@ -18,5 +18,3 @@ cd CyberCPM
 ```
 ```
 python main.py
-```
-```
